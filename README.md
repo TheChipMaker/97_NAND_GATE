@@ -25,8 +25,8 @@ Or using Modelsim command line:
 ```pgsql 
 vlib work
 vmap work ./work
-vcom AND_GATE.vhd
-vcom AND_GATE_tb.vhd
+vcom NAND_GATE.vhd
+vcom NAND_GATE_tb.vhd
 ```
 
 **2- Simulate Testbench:**

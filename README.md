@@ -1,4 +1,4 @@
-# NOT_GATE VHDL Project
+# NAND_GATE VHDL Project
 ## Table of Contents
 - [Overview](#overview)
 - [Main Files](#main-files)

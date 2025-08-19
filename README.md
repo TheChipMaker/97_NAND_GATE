@@ -31,7 +31,7 @@ vcom NAND_GATE_tb.vhd
 
 **2- Simulate Testbench:**
 ```pgsql 
-vsim work.NOT_GATE_tb
+vsim work.NAND_GATE_tb
 add wave *
 run 40 ns
 ```
